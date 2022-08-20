@@ -17,7 +17,7 @@ public class Base_class {
 	public static Java_utility jlib = new Java_utility();
 	public static Excel_Utility elib = new Excel_Utility();
 	public static WebDriver_Utility wlib = new WebDriver_Utility();
-	public static Database_Utility dlib=new Database_Utility();
+	
 
 	public WebDriver driver;
 	public static WebDriver sdriver;
